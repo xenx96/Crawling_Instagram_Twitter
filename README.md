@@ -29,7 +29,10 @@
 - InstagramCrawling.py
 ```
 - 사용 방법
+
 #File 전체를 Git clone 해주세요.
+#Selenium Lib을 이용한 것이기 때문에, 설치가 되어있지 않다면, 셀레니움 패키지를 설치해주세요.
+
 import InstagramCrawling as IC
 Search = '한남대' #검색어
 IC = IC.InstagramCrawling()
