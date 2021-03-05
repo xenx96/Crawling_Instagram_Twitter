@@ -29,8 +29,9 @@
 - InstagramCrawling.py
 ```
 - 사용 방법
+import InstaCrawling as IC
 Search = '한남대' #검색어
-IC = InstagramCrawling()
+IC = IC.InstagramCrawling()
 IC.setSearch(Search)
 IC.instCrawling()
 
