@@ -16,6 +16,14 @@ class InstagramCrawling() :
         self.linkarray = []
         self.search = ""
     
+    def createFolder(directory):
+        try:
+            if not os.path.exists(directory):
+                os.makedirs(directory)
+        except OSError:
+            print ('Error: {} Forder가 존재하지않습니다. 해당 폴더를 생성합니다.'.format(directory)
+
+
     def setSearch(self,search):
         self.search = search
         
@@ -63,6 +71,7 @@ class InstagramCrawling() :
         
     def instCrawling(self):
         self.startCrawling()
+        self.createFolder('../Text')
         reallink = self.linkarray
         num_of_data = len(reallink)
 
