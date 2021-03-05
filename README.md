@@ -12,8 +12,9 @@
 - 필요 데이터 : Naver News Comments, Instagram Comments, Twitts' Comments, 지난 총선정보
 
 문화관광 빅데이터 분석 공모전
-- 팀 : 165번
+- 팀 : 165번(팀장 : 유대선)
 - 수상 : 우수상
+- 인원 : 4명
 - 데이터 : 신한카드 데이터 및 언택트(코로나) 관련 Naver,Twitts, Instagram Comments
 ```
 
