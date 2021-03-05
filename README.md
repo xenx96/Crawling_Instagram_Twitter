@@ -25,3 +25,13 @@
 2. Class 객체화 (예정)
 3. 코드 한줄로 Crawling 갯수 지정, 날짜 지정, 검색어 지정 가능한 Code화 (예정)
 ```
+
+- InstagramCrawling.py
+```
+- 사용 방법
+Search = '한남대' #검색어
+IC = InstagramCrawling()
+IC.setSearch(Search)
+IC.instCrawling()
+
+```
