@@ -30,7 +30,7 @@
 ```
 - 사용 방법
 #File 전체를 Git clone 해주세요.
-import InstaCrawling as IC
+import InstagramCrawling as IC
 Search = '한남대' #검색어
 IC = IC.InstagramCrawling()
 IC.setSearch(Search)
