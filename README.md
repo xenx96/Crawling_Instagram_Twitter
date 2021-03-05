@@ -3,7 +3,8 @@
 
 - 목적
 ```
-해당 Crawling ipynb Files는 2020-01 학기 학사학위 논문을 위해 제작되었습니다.
+해당 tweet 및 instagram Crawling ipynb Files는 
+'2020-01 학기 학사학위 논문' 및 문화체육관광부 주관 '문화관광 빅데이터 분석 공모전'을 위해 제작되었습니다.
 학위 논문 저자 : 한남대 비즈니스통계학과 유대선
 학사 학위논문 내용 : 2020 대전시 총선 예측
 필요 데이터 : Naver News Comments, Instagram Comments, Twitts' Comments, 지난 총선정보
